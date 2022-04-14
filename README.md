@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MgJack
-- 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning Java but I'm planning to learn to Python and other backend languages. I want to be backend developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+Hi! My name is MgJack. I am willing to solve the problems. Now I'm currently learning Java SE and I'm planning to learn Java EE, Python and other backend languages.
+I want to become a backend developer and my dream is to become a data analyst. Whe I searched and read about other successful programmers, they started to become a developer whether they were interested in or not. After 3-10 years of experience in that field, they changed their career based on their interests. Then, they became ease in learning new things because of the work experience in the previous field. That's why I want to become a backend developer at first. 
 <!---
-MgJack/MgJack is a ✨ special ✨ repository its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Junior Backend Developer (Languages: Java, Python, PHP)
 --->
